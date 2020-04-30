@@ -7,9 +7,7 @@
 
 #endif //LEETCODEGIT_67_二进制求和_H
 
-#include <math.h>
 #include <string>
-#include <vector>
 using namespace std;
 
 // 对应位相加
